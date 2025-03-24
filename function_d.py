@@ -3,9 +3,10 @@ def max_value(numbers):
         in the list.
     """
 
-    def hi():
-        print("hiii")
     return max(numbers)
+
+def hi():
+    print("hiii")
 
 
 if __name__ == "__main__":
